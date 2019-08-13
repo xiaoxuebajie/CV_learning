@@ -5,7 +5,7 @@
     * 02 numpy 索引与切片
     * 03 numpy 随机数
     * 04 numpy 通用函数
-   * 02 pandas
+  * 02 pandas
     * 01 pandas Series
     * 02 pandas Dataframe
     * 03 pandas 索引与切片
@@ -15,14 +15,15 @@
     * 07 pandas 合并、连接、去重、替换
     * 08 pandas 数据分组
     * 09 pandas 数据读取
-   * 03 matplotlib
+  * 03 matplotlib
     * 01 matplotlib 简介及图标窗口
     * 02 matplotlib 图表的基本元素
     * 03 matplotlib 图表的样式参数
     * 04 matplotlib 子图
     * 05 matplotlib 基本图表绘制
-   * 04 exercise
+  * 04 exercise
     * 01 exercise 电影数据处理及分析实战
+
 2. DPbasic_learning
   * 01 单层感知器应用实例
   * 02 线性神经网络-异域问题
